@@ -21,7 +21,9 @@
 #### Data pre-processing: Follow the preprocessing steps in [SAFAS](https://github.com/sunyiyou/SAFAS).
 
 ## 3. Training
-Runing 
+Our implementaion of GAC-FAS is in `optimizers/gacfas.py`
+
+Start training: 
 ```python train.py --config ./configs/ICM2O.yaml```
 
 | Methods | $\mathrm{ICM} \rightarrow \mathrm{O}$ |  | $\mathrm{OCM} \rightarrow \mathrm{I}$ |  | $\mathrm{OCI} \rightarrow \mathrm{M}$ |  | $\mathrm{OMI} \rightarrow \mathrm{C}$ |  |
