@@ -1,5 +1,10 @@
 # Gradient Alignment for Cross-Domain Face Anti-Spoofing (ID: 1186)
 
+*The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024* <br /> 
+
+
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Leminhbinh0209/CVPR24-FAS?style=for-the-badge" height="25"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Leminhbinh0209/CVPR24-FAS?style=for-the-badge" height="25"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Leminhbinh0209/CVPR24-FAS?style=for-the-badge" height="25">
+
 ## Overview
 
 <p align="center">
