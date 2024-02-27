@@ -30,8 +30,10 @@
 ### 3.1 Running
 Our implementaion of GAC-FAS is in `optimizers/gacfas.py`
 
-Start training: 
-```python train.py --config ./configs/ICM2O.yaml```
+Update configuration file and start training ICM2O by: 
+```python
+python train.py --config ./configs/ICM2O.yaml
+```
 
 
 
