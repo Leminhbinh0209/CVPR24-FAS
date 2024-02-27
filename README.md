@@ -46,7 +46,7 @@ Please consider following parameters while runing as it affects on final results
 - Weight decay (1e-4, 5e-4, 6e-4)
 - ERM losses (BCE, CE)
 
-### 3.3 Resutls
+### 3.3 Snapshot resutls
 | Methods | **ICM2O** |  | **OCM2I** |  | **OCI2M** |  | OMI2C |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  | HTER | AUC |  HTER | AUC | HTER | AUC | HTER | AUC |
