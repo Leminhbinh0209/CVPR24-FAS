@@ -31,7 +31,7 @@ TRAIN:
     optimizer: "SGD"
     scheduler: "step"
     warming_epochs: 1
-    epochs: 20
+    epochs: 80
 
     balance_loader: False
     iter_per_epoch: 10
