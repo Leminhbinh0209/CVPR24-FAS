@@ -1,4 +1,4 @@
-# Gradient Alignment for Cross-Domain Face Anti-Spoofing (ID: 1186)
+# Gradient Alignment for Cross-Domain Face Anti-Spoofing
 
 *The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024* <br /> 
 
