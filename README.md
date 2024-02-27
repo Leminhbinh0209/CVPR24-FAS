@@ -38,7 +38,11 @@ python train.py --config ./configs/ICM2O.yaml
 
 
 ### 3.2 Bag of tricks
-Comming soon
+Please consider following parameters while runing as it affects on final results (See our Suppl.)
+- Random seed 
+- FC learning rate scale
+- Logit scale
+- Weight decay
 
 ### 3.3 Resutls
 | Methods | **ICM2O** |  | **OCM2I** |  | **OCI2M** |  | OMI2C |  |
