@@ -34,7 +34,7 @@ Update configuration file and start training ICM2O by:
 ```python
 python train.py --config ./configs/ICM2O.yaml
 ```
-
+[Pre-trained weights](https://o365skku-my.sharepoint.com/:f:/g/personal/bmle_o365_skku_edu/EjQwvQn7gbJArm3WAlAyKnIBw3kFxx0rYNWS5uSKeNRRvg?e=I78WKU) are released.
 
 
 ### 3.2 Bag of tricks
