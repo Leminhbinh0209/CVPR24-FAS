@@ -40,9 +40,10 @@ python train.py --config ./configs/ICM2O.yaml
 ### 3.2 Bag of tricks
 Please consider following parameters while runing as it affects on final results (See our Suppl.)
 - Random seed 
-- FC learning rate scale
-- Logit scale
-- Weight decay
+- FC learning rate scale (1, 10)
+- Logit scale (12, 16, 32)
+- Weight decay (1e-4, 5e-4, 6e-4)
+- ERM losses (BCE, CE)
 
 ### 3.3 Resutls
 | Methods | **ICM2O** |  | **OCM2I** |  | **OCI2M** |  | OMI2C |  |
