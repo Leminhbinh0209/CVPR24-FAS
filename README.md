@@ -45,7 +45,8 @@ Please consider following parameters while runing as it affects on final results
 - Logit scale (12, 16, 32)
 - Weight decay (1e-4, 5e-4, 6e-4)
 - ERM losses (BCE, CE)
-- Balanced _live vs. spoof_ data loader (OCI2M) 
+- Balanced _live vs. spoof_ data loader (only for OCI2M)
+- Larger lr (only for OMI2C wit 1e-2) 
 
 ### 3.3 Snapshot resutls
 | Methods | **ICM2O** |  | **OCM2I** |  | **OCI2M** |  | OMI2C |  |
