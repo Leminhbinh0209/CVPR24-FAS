@@ -26,11 +26,19 @@
 #### Data pre-processing: Follow the preprocessing steps in [SAFAS](https://github.com/sunyiyou/SAFAS).
 
 ## 3. Training
+
+### 3.1 Running
 Our implementaion of GAC-FAS is in `optimizers/gacfas.py`
 
 Start training: 
 ```python train.py --config ./configs/ICM2O.yaml```
 
+
+
+### 3.2 Bag of tricks
+Comming soon
+
+### 3.3 Resutls
 | Methods | **ICM2O** |  | **OCM2I** |  | **OCI2M** |  | OMI2C |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  | HTER | AUC |  HTER | AUC | HTER | AUC | HTER | AUC |
@@ -51,7 +59,6 @@ Start training:
 | SA-FAS   | 10.00 | 96.23 | 6.58 | 97.54 | 5.95 | 96.55 | 8.78 | 95.37 |
 | UDG-FAS  | 10.97 | 95.36 | 5.86 | 98.62 | 5.95 | **98.47** | 9.82 |**96.76** |
 | GAC-FAS (**ours**) | **8.60** (0.28) | **97.16** (0.40) | **4.29** (0.83) | **98.87** (0.60) | **5.00** (0.00) | 97.56 (0.06) | **8.20** (0.43) | 95.16 (0.09) |
-
 ## 4. Landscape visualization 
 
 [[paper](https://proceedings.neurips.cc/paper/7875-visualizing-the-loss-landscape-of-neural-nets.pdf)][[code](https://github.com/tomgoldstein/loss-landscape)][[software](http://paraview.org/)]
@@ -59,3 +66,18 @@ Start training:
 <p align="center">
     <img src="asset/loss_landscape.png" width="900" alt="overall pipeline">
 <p>
+
+
+
+#
+*Star (⭐) if you find it useful, and consider to cite our work*  
+
+## Citation
+```
+@inproceedings{le2024grad,
+  title={Gradient Alignment for Cross-Domain Face Anti-Spoofing},
+  author={Le, Binh M. and Woo, Simon },
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2024}
+}
+```
