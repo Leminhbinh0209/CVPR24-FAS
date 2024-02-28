@@ -87,7 +87,7 @@ Please consider following parameters while runing as it affects on final results
 ```
 @inproceedings{le2024grad,
   title={Gradient Alignment for Cross-Domain Face Anti-Spoofing},
-  author={Le, Binh M. and Woo, Simon },
+  author={Le, Binh M and Woo, Simon S},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
