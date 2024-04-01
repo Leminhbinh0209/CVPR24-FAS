@@ -10,3 +10,15 @@ authors:
 title: "Gradient Alignment for Cross-Domain Face Anti-Spoofing"
 date-released: 2024
 url: "https://arxiv.org/abs/2402.18817"
+preferred-citation:
+  type: inproceedings
+  authors:
+  - family-names: "Le"
+    given-names: "Binh M"
+    orcid: "https://orcid.org/0000-0002-4344-342"
+  - family-names: "Woo"
+    given-names: "Simon S"
+    orcid: "https://orcid.org/0000-0002-8983-1542"
+  journal: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+  title: "Gradient Alignment for Cross-Domain Face Anti-Spoofing"
+  year: 2024
